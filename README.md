@@ -15,9 +15,8 @@ Trabalho de Conclusão de Curso
 Navegue por linha de comando até a pasta do projeto e rode o seguinte comando:
 - composer update;
 
-crie um arquivo como nome de .env e copiei os scripts do arquivo .env.example
-
-altere as linhas 
+abra o arquivo .env e altere as linhas dee username e password de acordo com suas
+configurações do mysql:
 
 DB_CONNECTION=mysql
 DB_HOST=localhost
