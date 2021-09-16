@@ -3,7 +3,6 @@ Trabalho de Conclusão de Curso
 
 -------------Para utilizar o Sysforce é necessário instalar:
 
-- PHP (versão 7.1.3 OU 7.3);
 - MySql;
 - Composer;
 
@@ -13,7 +12,7 @@ Trabalho de Conclusão de Curso
  -No MySql crie um Database com o nome: sysforce.
 
 Navegue por linha de comando até a pasta do projeto e rode o seguinte comando:
-- composer update;
+- composer install;
 
 abra o arquivo .env e altere as linhas dee username e password de acordo com suas
 configurações do mysql:
